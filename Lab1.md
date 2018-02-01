@@ -14,6 +14,6 @@ If you have extra time, here are your options:
     * GitHub Tutorial on web based methods:
       https://guides.github.com
 4.  Roster challenge.
-    * Make a list of the students in class, first and last names.  Use the random.shuffle() to make a new set of teams for Monday (and next week).  Use some of the techniques from class this week, including for/while loops, if statements, strings, print statements, and embed it all in a function.  Number the teams.
+    * Make a list of the students in class, first and last names.  Use the random.shuffle() to make a new set of teams for Monday (and next week).  Use some of the techniques from class this week, including for/while loops, if statements, strings, print statements, and embed it all in a function.  Number the teams.  Work on creating a well documented code with clear and neat output for the user.
     * Make this roster code your own Jupyter Notebook
     * Make your own repository on GitHub to store this notebook.  Push the notebook to GitHub, and open a pull request.
