@@ -8,7 +8,7 @@ If you have extra time, here are your options:
 2.  Markdown tutorial - how to format those "comment" cells in the Jupyter notebook, along with the ".md" files on GitHub
     https://www.markdowntutorial.com
 2.  HW3 - is posted, it is short
-3.  Practice GitHb, I think I found the problem, it was in the permissions.
+3.  Practice GitHub, I think I found the problem, it was in the permissions.
     * GitHub Tutorial on terminal methods: https://try.github.io/levels/1/challenges/1
       *you would run these commands with the GitShell on a Window machine*
     * GitHub Tutorial on web based methods:
