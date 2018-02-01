@@ -11,6 +11,8 @@ If you have extra time, here are your options:
 3.  Practice GitHb, I think I found the problem, it was in the permissions.
     * GitHub Tutorial on terminal methods: https://try.github.io/levels/1/challenges/1
       *you would run these commands with the GitShell on a Window machine*
+    * GitHub Tutorial on web based methods:
+      https://guides.github.com
 4.  Roster challenge.
     * Make a list of the students in class, first and last names.  Use the random.shuffle() to make a new set of teams for Monday (and next week).  Use some of the techniques from class this week, including for/while loops, if statements, strings, print statements, and embed it all in a function.  Number the teams.
     * Make this roster code your own Jupyter Notebook
