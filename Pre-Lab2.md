@@ -49,7 +49,7 @@
 
 4.  Write out a planned pseudocode to solve Exercise 3.8 (you can mock it up on paper, Markdown, or python with many comments) to do the the exercise.  A few suggestions/additions:
 
-    1.  Make sure to use good programming style as laid out by Newman (section 2.7)
+    1.  Make sure to use good programming style as laid out by Newman (section 2.7) - be sure to use a function to do the least squares fit - we will be reusing that function in lab to fit other data.
     2.  Calculate the percent difference between Planck's constant and the accepted value
     3.  In part (c), you can use a different method than Newman's suggestion.  
       * I defined a linspace over the range of $\nu$ values
