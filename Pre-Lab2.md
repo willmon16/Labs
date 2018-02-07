@@ -56,7 +56,9 @@
       * I used numpy arithmetic to calculate a corresponding set of $V$ values
       * I plotted a line from those two arrays.
       
-5.  Bring your handwritten documents to lab (I'll check them off and give them back to you) and submit any Markdown/Jupyter Notebook you create in the usual spot - your private repository on Physics-PacU.
+5.  Submitting your work: 
+    * Bring your handwritten documents to lab (I'll check them off and give them back to you) 
+    * Submit any Markdown/Jupyter Notebook you create in the usual spot - your private repository on Physics-PacU.
 
 For your plots (when you make them in lab): 
 *  Be sure to add sensible labels - especially the x and y axes labels.  
