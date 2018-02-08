@@ -38,7 +38,7 @@
 1.  The lab learning objectives (note the ones related to Millikan)
 2.  Read the linked article: [History of the Oil Drop Experiment](https://www.aps.org/publications/apsnews/200608/history.cfm) 
 3.  Read Newman Exercise 3.8 - Least-squares fitting and the photoelectric effect 
-4.  (Not required:) If you're really interested, you can read Millikan's original 1913 paper.  It is available through its original publisher - [the Physical Review](https://journals.aps.org/pr/abstract/10.1103/PhysRev.2.109) 
+4.  (Not required:) If you're really interested, you can read Millikan's original 1913 paper on [electric charge](https://journals.aps.org/pr/abstract/10.1103/PhysRev.2.109) or his 1916 paper on [Planck's Constant](https://journals.aps.org/pr/abstract/10.1103/PhysRev.7.355)
 
 ### Questions/Exercises
 1. Unless you do everything by hand (which is an option), make a Jupyter Notebook - Pre-Lab2.ipynb to start your work below.    
